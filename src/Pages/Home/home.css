@@ -1,0 +1,13 @@
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn.btn-primary {
+    display: flex;
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 20px;
+    justify-content: center;
+    font-size: 1.2rem;
+}
